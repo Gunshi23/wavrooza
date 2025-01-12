@@ -1,0 +1,60 @@
+{
+    "products": {
+        "1": {
+            "name": "3-Piece Luggage Set ",
+            "originalPrice": 77.99,
+            "currentPrice": 18.71,
+            "discount": 76,
+            "mainImage": "1.jpg",
+            "thumbnails": [
+                "12.jpg",
+                "13.jpg",
+                "14.jpg"
+            ],
+            "badges": ["bestseller"],
+            "features": [
+                { "icon": "", "text": "Smooth-Rolling Trolley Wheels" },
+                { "icon": "", "text": "" }
+            ],
+            "description": "ABS Shell, Telescoping Handle, Spinner Wheels, Smooth-Rolling Trolley Wheels, Combination Locks - Perfect for All Trips, 20/24/28 Inches"
+        },
+        "2": {
+            "name": "COOFAY 2-in-1 Travel Set",
+            "originalPrice": 54.75,
+            "currentPrice": 27.37,
+            "discount": 50,
+            "mainImage": "4.jpg",
+            "thumbnails": [
+                "9.jpg",
+                "10.jpg",
+                "11.jpg"
+            ],
+            "badges": ["trending"],
+            "features": [
+                { "icon": "", "text": "Multiple Pockets" },
+                
+                { "icon": "", "text": "Unisex Bag" }
+            ],
+            "description": "COOFAY 2-in-1 Travel Set, 13-inch Cosmetic Case & 20-inch Carry-On Luggage, Multi-functional High-Capacity, Heavy-Duty PP Material, Unisex Backpack, Laptop Bag for 15.6-inch Notebook, Dry Clean, with Airline-Approved Size & Password Zipper"
+        },
+        "3": {
+            "name": "Coofay Spinner Luggage Set",
+            "originalPrice": 52.10,
+            "currentPrice": 23.44,
+            "discount": 45,
+            "mainImage": "5.jpg",
+            "thumbnails": [
+                "6.jpg",
+                "7.jpg",
+                "8.jpg"
+            ],
+            "badges": ["trending"],
+            "features": [
+                { "icon": "", "text": "Hardshell Suitcase" },
+                { "icon": "", "text": "" }
+            ],
+            "description": "1set Coofay 20-Inch Spinner Luggage Set, PP Hardshell Suitcase with Quiet Wheels, Zippered Travel Tote, Toiletry & Makeup Bag, Dry Clean Only"
+        }
+    
+    }
+} 
